@@ -1,0 +1,56 @@
+body {
+    color: white;
+    background-color: rgb(26, 24, 24);
+}
+
+header {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    text-align: center;
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    border: 5px solid rgb(185, 248, 246);
+}
+
+ul  {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 20px;
+}
+
+a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(185, 248, 246)
+}
+
+hr {
+    color: white;
+}
+
+.content {
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0% 10%;
+}
+
+.Copyright {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.links {
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    list-style-type: none;
+    padding: 0% 2%;
+}
